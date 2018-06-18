@@ -4,7 +4,7 @@ permalink: /machine-learning/
 title: "Machine Leaning Posts by Tags"
 author_profile: true
 header:
-  image:"/images/xu.jpg"
+  image: "/images/xu.jpg"
 ---
 
 {% include base_path %}
