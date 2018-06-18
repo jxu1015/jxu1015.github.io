@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /maching-learning/
+permalink: /machine-learning/
 title: "Machine Leaning Posts by Tags"
 author_profile: true
 header:
