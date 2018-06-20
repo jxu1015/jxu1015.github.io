@@ -102,9 +102,9 @@ analytics:
 author:
   name             : "Jie Xu"
   avatar           : "/images/xu.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Video & Image Processing System Lab\n School of Electronic Engineering\n Xidian University."
   location         : "Pittsburgh, PA"
-  email            :
+  email            : "jie.xu@pitt.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
