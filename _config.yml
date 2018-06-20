@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jie Xu"
+title                    : "Jie Xu (许洁)"
 title_separator          : "-"
 name                     : "Jie Xu"
 description              : "Homepage"
@@ -100,9 +100,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jie Xu"
+  name             : "Jie Xu (许洁)"
   avatar           : "/images/xu.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Video & Image Processing System Lab\n School of Electronic Engineering\n Xidian University."
+  bio              : "Video & Image Processing System Lab\n School of Electronic Engineering\n Xidian University"
   location         : "Pittsburgh, PA"
   email            : "jie.xu@pitt.edu"
   uri              :
