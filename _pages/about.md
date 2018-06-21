@@ -15,5 +15,5 @@ My research interests include machine learning, computer vision and artificial i
 
 
 **Friends**
-.[Erkun Yang]. (https://yangerkun.github.io/)(Xidian University)
+.[Erkun Yang]. (https://yangerkun.github.io/) (Xidian University)
 
