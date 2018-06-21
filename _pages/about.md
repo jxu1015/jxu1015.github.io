@@ -11,3 +11,9 @@ pursuing the Ph.D. degree with the School of Electronic Engineering.
 Meanwhile, I study in University of Pittsburgh as a joint doctoral student.
 
 My research interests include machine learning, computer vision and artificial intelligence.
+
+
+
+**Friends**
+.[Erkun Yang]. (https://yangerkun.github.io/)(Xidian University)
+
