@@ -6,8 +6,8 @@ header:
   image: "/images/fengshou.jpg"
 ---
 
-1. Lei Luo, **Jie Xu (许洁)**, Heng Huang. Robust Metric Learning on Grassmann Manifolds with Generalization Guarantees. The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19), 2019. (CCF-A类)
-2. Lei Luo, **Jie Xu (许洁)**, Heng Huang. Orthogonality-Promoting Dictionary Learning via Bayesian Inference. The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19), 2019. (CCF-A类)
+1. Lei Luo, **Jie Xu (许洁)**, Cheng Deng, Heng Huang. Robust Metric Learning on Grassmann Manifolds with Generalization Guarantees. The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19), 2019. (CCF-A类)
+2. Lei Luo, **Jie Xu (许洁)**, Cheng Deng, Heng Huang. Orthogonality-Promoting Dictionary Learning via Bayesian Inference. The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19), 2019. (CCF-A类)
 3. **Jie Xu (许洁)**, Lei Luo, Cheng Deng, Heng Huang. Bilevel Distance Metric Learning for Robust Image Recognition. Thirty-second Conference on Neural Information Processing Systems (NIPS), 2018. (CCF-A类)
 4. **Jie Xu (许洁)**, Lei Luo, Cheng Deng, Heng Huang. New Robust Metric Learning Model Using Maximum Correntropy Criterion. SIGKDD: The community for data mining, data science and analytics (SIGKDD), 2018, 2555-2564, London, United Kingdom, 2018.8.19-8.23. (CCF-A类)
 5. **Jie Xu (许洁)**, Lei Luo, Cheng Deng, Heng Huang.Multi-Level Metric Learning via Smoothed Wasserstein Distance. International Joint Conference on Artificial Intelligence (IJCAI), 2018, Stockholm, Sweden, 2018.7.13-7.19. (CCF-A类)
