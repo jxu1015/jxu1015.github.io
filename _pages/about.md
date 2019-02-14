@@ -7,7 +7,7 @@ header:
 
 I received the B.Sc. degree in biomedical engineering, the M.Sc. degree and the PhD degree in circuits and
 systems from Xidian University, Xi’an, China, in 2012, 2015 and 2018, respectively. 
-Besides, I studied at University of Texas at Arlington and University of Pittsburgh as a joint doctoral student from 2016 to 2018. Now, I am doing my research in Weil Cornell Medicine College, Cornell University as a postdoctor.
+Besides, I studied at University of Texas at Arlington and University of Pittsburgh as a joint doctoral student from 2016 to 2018. Now, I am doing my research as a postdoctor in Weil Cornell Medicine College, Cornell University.
 
 My research interests include machine learning, computer vision and artificial intelligence.
 
