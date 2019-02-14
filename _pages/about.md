@@ -5,10 +5,9 @@ header:
   image: "/images/xian.jpg"
 ---
 
-I received the B.Sc. degree in biomedical engineering and the M.Sc. degree in circuits and
-systems from Xidian University, Xi’an, China, in 2012 and 2015, respectively, where I am currently
-pursuing the Ph.D. degree with the School of Electronic Engineering.
-Meanwhile, I study in University of Pittsburgh as a joint doctoral student.
+I received the B.Sc. degree in biomedical engineering, the M.Sc. degree and the PhD degree in circuits and
+systems from Xidian University, Xi’an, China, in 2012, 2015 and 2018, respectively. 
+Besides, I studied at University of Texas at Arlington and University of Pittsburgh as a joint doctoral student for about one year, respectively.
 
 My research interests include machine learning, computer vision and artificial intelligence.
 
