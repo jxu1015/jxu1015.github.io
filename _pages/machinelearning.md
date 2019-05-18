@@ -7,6 +7,10 @@ header:
   image: "/images/homeland.jpg"
 ---
 
+* what
+* are
+* you
+* doing
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
