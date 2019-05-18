@@ -1,7 +1,7 @@
 ---
-title: "Edge Case: Nested and Mixed Lists"
+title: "ICML 2019"
 categories:
-  - Edge Case
+  - Paper Reading
 tags:
   - content
   - css
