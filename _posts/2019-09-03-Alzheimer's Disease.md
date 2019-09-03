@@ -36,6 +36,5 @@ Patient-facing EHR portals can help families because physicians can more clearly
 Moving forward, there is hope that the information provided by EHRs can help improve Alzheimer's care across the board. Researchers are already leveraging patient data to identify evidence-based practices and uncover new options for combating the disease. As the population ages, EHR systems will only become more important. From start to finish, these platforms give physicians a better chance to diagnose and treat patients, as well as learn from their experiences.
 
 ### References:
-[1] https://www.nuemd.com/news/2017/02/07/ehrs-essential-treating-alzheimers-patients
-
+[1] https://www.nuemd.com/news/2017/02/07/ehrs-essential-treating-alzheimers-patients  
 [2] https://www.nuemd.com/news/2015/08/21/ehr-data-used-study-risk-alzheimers-disease
