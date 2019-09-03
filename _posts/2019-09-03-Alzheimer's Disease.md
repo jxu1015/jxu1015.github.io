@@ -37,4 +37,5 @@ Moving forward, there is hope that the information provided by EHRs can help imp
 
 ### References:
 [1] https://www.nuemd.com/news/2017/02/07/ehrs-essential-treating-alzheimers-patients
+
 [2] https://www.nuemd.com/news/2015/08/21/ehr-data-used-study-risk-alzheimers-disease
