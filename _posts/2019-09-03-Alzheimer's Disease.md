@@ -11,8 +11,6 @@ toc: true
 
 Why EHRs are essential for treating Alzheimer's patients?
 
-## Header two
-
 ## Background
 
 Alzheimer's disease is a serious problem in the U.S., affecting countless individuals and families across the nation. According to the Alzheimer's Association, 1 in 3 seniors dies with the disease or another form of dementia. It is the sixth leading cause of death in the U.S. 
