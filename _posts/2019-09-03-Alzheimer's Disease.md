@@ -1,13 +1,11 @@
 ---
 title: "Alzheimer's Disease"
 categories:
-  - Paper reading
+  - Medical knowledge
 tags:
-  - content
-  - css
-  - formatting
-  - html
-  - markup
+  - Alzheimer's Disease
+  - dementia
+  - EHR
 toc: true
 ---
 
