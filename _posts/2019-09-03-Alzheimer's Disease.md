@@ -11,8 +11,12 @@ tags:
 toc: true
 ---
 
-A variety of common markup showing how the theme styles them.
+Why EHRs are essential for treating Alzheimer's patients?
 
 ## Header two
 
 ### Header three
+
+
+# References:
+[1] https://www.nuemd.com/news/2017/02/07/ehrs-essential-treating-alzheimers-patients
