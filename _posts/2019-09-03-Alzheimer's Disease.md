@@ -1,5 +1,5 @@
 ---
-title: "Alzheimer's disease"
+title: "Alzheimer's Disease"
 categories:
   - Paper reading
 tags:
