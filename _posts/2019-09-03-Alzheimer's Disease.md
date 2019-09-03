@@ -4,7 +4,7 @@ categories:
   - Medical knowledge
 tags:
   - Alzheimer's Disease
-  - dementia
+  - Dementia
   - EHR
 toc: true
 ---
