@@ -32,6 +32,10 @@ NorthShore's Center for Brain Health are using the system's EHR network to help 
 
 "We are using the data routinely captured by Epic to determine someone's likelihood to be free of Alzheimer's or their hazard of developing Alzheimer's in the next five years," Dr. Demetrius Maraganore, chairman of NorthShore's Department of Neurology, told Healthcare Informatics. "And we can assign a risk score to that person and decide what risk score sets off bells and whistles so that we should inform this person and their doctor that this person is at increased risk."
 
+### Electronic Health Records Based Prediction of Future Incidence of Alzheimer’s Disease Using Machine Learning (Yonsei University, Korea & Columbia University, USA)
+
+
+
 ## Findings
 
 ### Paper 1: Predicting dementia from primary care records: A systematic review and meta-analysis
