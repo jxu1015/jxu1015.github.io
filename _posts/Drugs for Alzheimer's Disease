@@ -1,0 +1,41 @@
+---
+title: "Drugs for Alzheimer's Disease"
+categories:
+  - Medical knowledge
+tags:
+  - Alzheimer's Disease
+  - Dementia
+  - EHR
+toc: true
+---
+
+Note - Alzheimer's drug repurposing
+
+## Background
+
+Alzheimer's disease is a serious problem in the U.S., affecting countless individuals and families across the nation. According to the Alzheimer's Association, 1 in 3 seniors dies with the disease or another form of dementia. It is the sixth leading cause of death in the U.S. 
+
+## Paper 1: Network-based Translation of GWAS Findings to Pathobiology and Drug Repurposing for Alzheimer’s Disease
+Pioglitazone usage is significantly associated with decreased risk of AD
+
+### Findings
+
+Broadly in disease, drug targets with genetic support have carried a high success rate amongst U.S. Food and Drug Administration
+(FDA)-approved therapies. However, this has not been the case with AD, and the translational application of multi-omics data such
+as GWAS for target identification and therapeutic development in AD remains challenging.
+
+Based on drug-target networks from 6 commonly used resources, we obtained 2,866 potential druggable proteins for FDA-approved or
+clinically investigational drugs.
+
+We next examined opportunities for drug repurposing by integrating findings from ARGs with the human protein-protein interactome network.
+
+### ARGs offer candidate targets for Alzheimer's drug repurposing
+
+Figure 4 shows the molecular mechanisms of the 25 predicted drug candidates with published experimental or clinical evidence for AD. These drugs are classified into 6 categories
+according to Anatomical Therapeutic Chemical classification (ATC) codes: musculoskeletal systems [n=6], genito urinary and hormones [n=5], cardiovascular
+[n=3], alimentary tract and metabolism [n=3], respiratory system [n=2], and others [n=6].
+
+Among them, we found 4 predicted drugs having known AD clinical evidence (Galimberti and Scarpini, 2017, Lehrer and Rheinstein, 2018), including pioglitazone
+[NCT02913664], carvedilol [NCT01354444], febuxostat (Singh and Cleveland, 2018), and fluticasone (Lehrer and Rheinstein, 2018). Pioglitazone, an FDA approved
+drug for T2D, has a significant network proximity (Z = -1.64) with the ARGs. 
+
