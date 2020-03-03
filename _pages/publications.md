@@ -16,7 +16,7 @@ header:
 * [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Xianglong Liu, Zhouyuan Huo, Cheng Deng, Feiping Nie, Heng Huang*. Multi-Class Support Vector Machine via Maximizing Multi-Class Margins. 26th International Joint Conference on Artificial Intelligence (IJCAI), 2017, 3154-3160, Melbourne, Australia, 2017.8.17-8.25.
 {: .small}
 
-## Computer Vision - Image Super-resoluton
+> ## Computer Vision - Image Super-resoluton
 
 [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision){: .btn .btn--primary .btn--primary}
 [Image Super-resoluton](https://en.wikipedia.org/wiki/Super-resolution_imaging){: .btn .btn--inverse .btn--primary}
