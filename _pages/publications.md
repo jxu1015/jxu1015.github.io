@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-date: 2018-06-19
+date: 2020-01-01
 permalink: /publications/
 header:
   image: "/images/fengshou.jpg"
