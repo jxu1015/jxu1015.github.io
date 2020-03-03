@@ -24,7 +24,7 @@ header:
 [SR](#){: .btn .btn--light-outline .btn--small}
 [GPR](#){: .btn .btn--light-outline .btn--small}
 
-> Super-resolution imaging (SR) is a class of techniques that enhance (increase) the resolution of an imaging system. In optical SR the diffraction limit of systems is transcended, while in geometrical SR the resolution of digital imaging sensors is enhanced. 
+> [Super-resolution imaging](https://en.wikipedia.org/wiki/Super-resolution_imaging) (SR) is a class of techniques that enhance (increase) the resolution of an imaging system. In optical SR the diffraction limit of systems is transcended, while in geometrical SR the resolution of digital imaging sensors is enhanced. 
 [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision){: .btn .btn--primary .btn--primary}
 [Super-resoluton](https://en.wikipedia.org/wiki/Super-resolution_imaging){: .btn .btn--inverse .btn--primary}
 [SVR](#){: .btn .btn--light-outline .btn--small}
