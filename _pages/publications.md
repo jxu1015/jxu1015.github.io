@@ -27,7 +27,6 @@ header:
 
 [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision){: .btn .btn--inverse .btn--primary}
 [Image Super-resoluton](https://en.wikipedia.org/wiki/Super-resolution_imaging){: .btn .btn--light-outline .btn--primary}
-
 [GPR](#){: .btn .btn--light-outline .btn--small}
 [SR](#){: .btn .btn--light-outline .btn--small}
 [SVR](#){: .btn .btn--light-outline .btn--small}
