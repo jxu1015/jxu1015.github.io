@@ -20,6 +20,26 @@ toc: true
 
 <font color='red'>test blue color font</font>
 
+Applying blue class to text:
+
+This is a paragraph that for some reason we want blue.
+{: .blue}
+Applying blue class to headings:
+
+#### A blue heading
+{: .blue}
+Applying two classes:
+
+A blue and bold paragraph.
+{: .blue .bold}
+Applying ids:
+
+#### A blue heading
+{: .blue #blue-h}
+This produces:
+
+<h4 class="blue" id="blue-h">A blue heading</h4>
+
 
 
 
