@@ -6,11 +6,8 @@ header:
   image: "/images/fengshou.jpg"
 ---
 * **Jie Xu (许洁)**, Zhenxing Xu, Peter Walke, Fei Wang. Federated Patient Hashing. The Thirty-Fourth AAAI Con-ference on Artificial Intelligence (AAAI-20), 2020.
-
 * **Jie Xu (许洁)**, Fei Wang. Federated Learning for Healthcare Informatics. arXiv preprint arXiv:1911.06270, 2019.
-
 * Lei Luo, **Jie Xu (许洁)**, Cheng Deng, Heng Huang. Robust Metric Learning on Grassmann Manifolds with Generalization Guarantees. The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19), 2019.
-
 * Lei Luo, **Jie Xu (许洁)**, Cheng Deng, Heng Huang. Orthogonality-Promoting Dictionary Learning via Bayesian Inference. The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19), 2019.
 
 * **Jie Xu (许洁)**, Lei Luo, Cheng Deng, Heng Huang. Bilevel Distance Metric Learning for Robust Image Recognition. Thirty-second Conference on Neural Information Processing Systems (NIPS), 2018.
@@ -27,11 +24,11 @@ header:
 
 * Xinxia Fan, Yanhua Yang, Cheng Deng, **Jie Xu (许洁)**, Xinbo Gao. Compressed Multi-scale Feature Fusion Network for Single Image Super-Resolution. Signal Processing, 2017.  (JCR-II区, IF = 3.110)
 
-* **Jie Xu (许洁)**, Cheng Deng*, Xinbo Gao, Dacheng Tao, Xuelong Li. Image super-resolution using multi-layer support vector regression. 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2014, 5799-5803, Florence, Italy, 2014.5.4-5.9.
+* [Jie Xu (许洁)](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Cheng Deng*, Xinbo Gao, Dacheng Tao, Xuelong Li. Image super-resolution using multi-layer support vector regression. 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2014, 5799-5803, Florence, Italy, 2014.5.4-5.9.
 
-* **Jie Xu (许洁)**, Cheng Deng, Xianglong Liu, Jie Li. Image Super-resolution Based on Sparse Representation With Joint Constraints. International Conference on Internet Multimedia Computing and Service (ICIMCS), 2014, 381-385, Xiamen, China, 2014.7.10-7.12. 
+* [Jie Xu](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Cheng Deng, Xianglong Liu, Jie Li. Image Super-resolution Based on Sparse Representation With Joint Constraints. International Conference on Internet Multimedia Computing and Service (ICIMCS), 2014, 381-385, Xiamen, China, 2014.7.10-7.12. 
 
-* Songhang Ye, Cheng Deng, **Jie Xu (许洁)**, Xinbo Gao. Coupled Fisher Discrimination Dictionary Learn-ing for Single Image Super-resolution. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2015, 1196-1200, Queensland, Australia, 2015.4.19-2015.4.24.
+* Songhang Ye, Cheng Deng, **[Jie Xu](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en) (许洁)**, Xinbo Gao. Coupled Fisher Discrimination Dictionary Learn-ing for Single Image Super-resolution. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2015, 1196-1200, Queensland, Australia, 2015.4.19-2015.4.24.
 
-* Fang Xie, Cheng Deng, **Jie Xu (许洁)**, Jifei Yu, Jie Li. Image Super Resolution Using Gaussian Process Regression with Patch Clustering. International Conference on Internet Multimedia Computing and Service (ICIMCS), 2013, 109-112, Huang shan, China, 2013.8.17-8.18. 
+* Fang Xie, Cheng Deng, [**Jie Xu (许洁)**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Jifei Yu, Jie Li. Image Super Resolution Using Gaussian Process Regression with Patch Clustering. International Conference on Internet Multimedia Computing and Service (ICIMCS), 2013, 109-112, Huang shan, China, 2013.8.17-8.18. 
 {: .small}
