@@ -17,16 +17,8 @@ header:
 
 ## Computer Vision - Image Super-resoluton
 
-[Image Super-resolution](#){: .btn .btn--primary}
-[Gaussian Process Regression](#){: .btn .btn--success}
-[Sparse Representation](#){: .btn .btn--warning}
-[Support Vector Regression](#){: .btn .btn--danger}
-[Info Button](#){: .btn .btn--info}
-[Inverse Button](#){: .btn .btn--inverse}
-[Light Outline Button](#){: .btn .btn--light-outline}
-
 [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision){: .btn .btn--primary .btn--primary}
-[Image Super-resoluton](https://en.wikipedia.org/wiki/Super-resolution_imaging){: .btn .btn--light-outline .btn--primary}
+[Image Super-resoluton](https://en.wikipedia.org/wiki/Super-resolution_imaging){: .btn .btn--inverse .btn--primary}
 [GPR](#){: .btn .btn--light-outline .btn--small}
 [SR](#){: .btn .btn--light-outline .btn--small}
 [SVR](#){: .btn .btn--light-outline .btn--small}
