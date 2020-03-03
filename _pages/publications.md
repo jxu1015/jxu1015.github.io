@@ -15,13 +15,12 @@ header:
 * [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Cheng Deng, Xinbo Gao, Dinggang Shen, Heng Huang. Predicting Alzheimer's Disease Cognitive Assessment via Robust Low-Rank Structured Sparse Model. 26th International Joint Conference on Artificial Intelligence (IJCAI), 2017, 3880-3886, Melbourne, Australia, 2017.8.17-8.25.
 * [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Xianglong Liu, Zhouyuan Huo, Cheng Deng, Feiping Nie, Heng Huang*. Multi-Class Support Vector Machine via Maximizing Multi-Class Margins. 26th International Joint Conference on Artificial Intelligence (IJCAI), 2017, 3154-3160, Melbourne, Australia, 2017.8.17-8.25.{: .small}
 
-### Computer Vision - Image Super-resoluton
+## Computer Vision - Image Super-resoluton
 
-[Default Button](#){: .btn}
-[Primary Button](#){: .btn .btn--primary}
-[Success Button](#){: .btn .btn--success}
-[Warning Button](#){: .btn .btn--warning}
-[Danger Button](#){: .btn .btn--danger}
+[Image Super-resolution](#){: .btn .btn--primary}
+[Gaussian Process Regression](#){: .btn .btn--success}
+[Sparse Representation](#){: .btn .btn--warning}
+[Support Vector Regression](#){: .btn .btn--danger}
 [Info Button](#){: .btn .btn--info}
 [Inverse Button](#){: .btn .btn--inverse}
 [Light Outline Button](#){: .btn .btn--light-outline}
@@ -35,6 +34,6 @@ header:
 * Xinxia Fan, Yanhua Yang, Cheng Deng, [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Xinbo Gao. Compressed Multi-scale Feature Fusion Network for Single Image Super-Resolution. Signal Processing, 2017.  (JCR-II区, IF = 3.110)
 * [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Cheng Deng*, Xinbo Gao, Dacheng Tao, Xuelong Li. Image super-resolution using multi-layer support vector regression. 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2014, 5799-5803, Florence, Italy, 2014.5.4-5.9.
 * [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Cheng Deng, Xianglong Liu, Jie Li. Image Super-resolution Based on Sparse Representation With Joint Constraints. International Conference on Internet Multimedia Computing and Service (ICIMCS), 2014, 381-385, Xiamen, China, 2014.7.10-7.12. 
-* Songhang Ye, Cheng Deng, [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Xinbo Gao. Coupled Fisher Discrimination Dictionary Learn-ing for Single Image Super-resolution. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2015, 1196-1200, Queensland, Australia, 2015.4.19-2015.4.24.
+* Songhang Ye, Cheng Deng, [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Xinbo Gao. Coupled Fisher Discrimination Dictionary Learning for Single Image Super-resolution. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2015, 1196-1200, Queensland, Australia, 2015.4.19-2015.4.24.
 * Fang Xie, Cheng Deng, [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Jifei Yu, Jie Li. Image Super Resolution Using Gaussian Process Regression with Patch Clustering. International Conference on Internet Multimedia Computing and Service (ICIMCS), 2013, 109-112, Huang shan, China, 2013.8.17-8.18. 
 {: .small}
