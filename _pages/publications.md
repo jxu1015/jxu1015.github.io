@@ -17,6 +17,15 @@ header:
 
 ### Computer Vision - Image Super-resoluton
 
+[Default Button](#){: .btn}
+[Primary Button](#){: .btn .btn--primary}
+[Success Button](#){: .btn .btn--success}
+[Warning Button](#){: .btn .btn--warning}
+[Danger Button](#){: .btn .btn--danger}
+[Info Button](#){: .btn .btn--info}
+[Inverse Button](#){: .btn .btn--inverse}
+[Light Outline Button](#){: .btn .btn--light-outline}
+
 [X-Large Button](#){: .btn .btn--primary .btn--x-large}
 [Large Button](#){: .btn .btn--primary .btn--large}
 [Default Button](#){: .btn .btn--primary }
