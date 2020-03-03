@@ -17,6 +17,11 @@ header:
 
 ### Computer Vision - Image Super-resoluton
 
+[X-Large Button](#){: .btn .btn--primary .btn--x-large}
+[Large Button](#){: .btn .btn--primary .btn--large}
+[Default Button](#){: .btn .btn--primary }
+[Small Button](#){: .btn .btn--primary .btn--small}
+
 * Cheng Deng, [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Kaibing Zhang, Dacheng Tao, Xinbo Gao, Xuelong Li. Similarity Constraints Based Structured Output Regression Machine: An Approach to Image Super-Resolution. IEEE Transactions on Neural Networks and Learning Systems, 2016, 27(12): 2472-2485. (JCR-I区, IF = 6.108)
 * Xinxia Fan, Yanhua Yang, Cheng Deng, [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Xinbo Gao. Compressed Multi-scale Feature Fusion Network for Single Image Super-Resolution. Signal Processing, 2017.  (JCR-II区, IF = 3.110)
 * [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Cheng Deng*, Xinbo Gao, Dacheng Tao, Xuelong Li. Image super-resolution using multi-layer support vector regression. 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2014, 5799-5803, Florence, Italy, 2014.5.4-5.9.
