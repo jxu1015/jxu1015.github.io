@@ -15,14 +15,3 @@ My research interests include machine learning, computer vision and artificial i
 3. Computer Vision: Image Super-resolution, Pattern Recognition, Video Analysis
 
 Currently, my primary research interest is data analytic, privacy preserving technology and their applications in health informatics. One key aspect I have been working on is evaluating the clinical similarity between pairwise patients according to their historical EHR in federated environment. Besides this, I also work on the privacy preserving technology like differential privacy in order to further protect patient's information. Another major research topic that I am working on is to identify the potential sub-phenotypes of Alzheimer's disease and use machine learning models to predict the future incidence of AD using administrative EHR in individuals.
-
-
-**Friends**
-======
-[Erkun Yang](https://yangerkun.github.io/)(Xidian Unversity)  
-[Chao Li](https://chaoli1991.github.io/)(Xidian Unversity)  
-[Zeyu Li](https://zeyuli1990.github.io/)(Xidian Unversity)  
-[De Xie](https://shadowxiede.github.io/)(Xidian Unversity)  
-[Hao Wang](https://haowang1992.github.io/)(Xidian Unversity)  
-[Jiexi Yan](https://JiexiYan.github.io)(Xidian Unversity)  
-[Zhiyuan Dang](https://zhiyuandang.github.io/)(Xidian Unversity) 
