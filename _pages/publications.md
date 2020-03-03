@@ -16,8 +16,7 @@ header:
 * [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Xianglong Liu, Zhouyuan Huo, Cheng Deng, Feiping Nie, Heng Huang*. Multi-Class Support Vector Machine via Maximizing Multi-Class Margins. 26th International Joint Conference on Artificial Intelligence (IJCAI), 2017, 3154-3160, Melbourne, Australia, 2017.8.17-8.25.
 {: .small}
 
-## [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision) - [Super-resoluton](https://en.wikipedia.org/wiki/Super-resolution_imaging)
-
+## Computer Vision - Super-resoluton
 > [Super-resolution imaging (SR)](https://en.wikipedia.org/wiki/Super-resolution_imaging) is a class of techniques that enhance (increase) the resolution of an imaging system. In optical SR the diffraction limit of systems is transcended, while in geometrical SR the resolution of digital imaging sensors is enhanced. 
 {: .notice--info}
 
