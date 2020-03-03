@@ -13,7 +13,8 @@ header:
 * [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Lei Luo, Cheng Deng, Heng Huang. New Robust Metric Learning Model Using Maximum Correntropy Criterion. SIGKDD: The community for data mining, data science and analytics (SIGKDD), 2018, 2555-2564, London, United Kingdom, 2018.8.19-8.23.
 * [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Lei Luo, Cheng Deng, Heng Huang. Multi-Level Metric Learning via Smoothed Wasserstein Distance. International Joint Conference on Artificial Intelligence (IJCAI), 2018, Stockholm, Sweden, 2018.7.13-7.19.
 * [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Cheng Deng, Xinbo Gao, Dinggang Shen, Heng Huang. Predicting Alzheimer's Disease Cognitive Assessment via Robust Low-Rank Structured Sparse Model. 26th International Joint Conference on Artificial Intelligence (IJCAI), 2017, 3880-3886, Melbourne, Australia, 2017.8.17-8.25.
-* [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Xianglong Liu, Zhouyuan Huo, Cheng Deng, Feiping Nie, Heng Huang*. Multi-Class Support Vector Machine via Maximizing Multi-Class Margins. 26th International Joint Conference on Artificial Intelligence (IJCAI), 2017, 3154-3160, Melbourne, Australia, 2017.8.17-8.25.{: .small}
+* [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Xianglong Liu, Zhouyuan Huo, Cheng Deng, Feiping Nie, Heng Huang*. Multi-Class Support Vector Machine via Maximizing Multi-Class Margins. 26th International Joint Conference on Artificial Intelligence (IJCAI), 2017, 3154-3160, Melbourne, Australia, 2017.8.17-8.25.
+{: .small}
 
 ## Computer Vision - Image Super-resoluton
 
