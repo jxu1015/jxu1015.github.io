@@ -24,7 +24,12 @@ header:
 [SR](#){: .btn .btn--light-outline .btn--small}
 [GPR](#){: .btn .btn--light-outline .btn--small}
 
-> Super-resolution imaging (SR) is a class of techniques that enhance (increase) the resolution of an imaging system. In optical SR the diffraction limit of systems is transcended, while in geometrical SR the resolution of digital imaging sensors is enhanced.
+> Super-resolution imaging (SR) is a class of techniques that enhance (increase) the resolution of an imaging system. In optical SR the diffraction limit of systems is transcended, while in geometrical SR the resolution of digital imaging sensors is enhanced. 
+[Computer Vision](https://en.wikipedia.org/wiki/Computer_vision){: .btn .btn--primary .btn--primary}
+[Super-resoluton](https://en.wikipedia.org/wiki/Super-resolution_imaging){: .btn .btn--inverse .btn--primary}
+[SVR](#){: .btn .btn--light-outline .btn--small}
+[SR](#){: .btn .btn--light-outline .btn--small}
+[GPR](#){: .btn .btn--light-outline .btn--small}
 {: .notice--info}
 
 * Cheng Deng, [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Kaibing Zhang, Dacheng Tao, Xinbo Gao, Xuelong Li. Similarity Constraints Based Structured Output Regression Machine: An Approach to Image Super-Resolution. IEEE Transactions on Neural Networks and Learning Systems, 2016, 27(12): 2472-2485. (JCR-I, IF = 6.108)
