@@ -15,6 +15,7 @@ toc: true
 
 :   Older people with dementia experience many severe potential drug-drug interactions. Antidepressants, antiplatelets, anti-psychotics and omeprazole were the drugs most commonly involved in these interactions. Despite their frequent use, anti-dementia drugs were not involved in severe potential drug-drug interactions. The number and type of medications taken, dementia severity and depression in patients in addition to caregiver burden should be considered to avoid possible drug interactions in this population.
 
+扫盲 啦啦啦
 
 <font color='red'>citalopram</font> 
 
