@@ -5,7 +5,7 @@ permalink: /publications/
 header:
   image: "/images/fengshou.jpg"
 ---
-* **Jie Xu (许洁)**, Zhenxing Xu, Peter Walke, Fei Wang. Federated Patient Hashing. The Thirty-Fourth AAAI Con-ference on Artificial Intelligence (AAAI-20), 2020. (CCF-A类)
+* **Jie Xu (许洁)**, Zhenxing Xu, Peter Walke, Fei Wang. Federated Patient Hashing. The Thirty-Fourth AAAI Con-ference on Artificial Intelligence (AAAI-20), 2020. (CCF-A类){: .small}
 * **Jie Xu (许洁)**, Fei Wang. Federated Learning for Healthcare Informatics. arXiv preprint arXiv:1911.06270, 2019.
 * Lei Luo, **Jie Xu (许洁)**, Cheng Deng, Heng Huang. Robust Metric Learning on Grassmann Manifolds with Generalization Guarantees. The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19), 2019. (CCF-A类)
 * Lei Luo, **Jie Xu (许洁)**, Cheng Deng, Heng Huang. Orthogonality-Promoting Dictionary Learning via Bayesian Inference. The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19), 2019. (CCF-A类)
