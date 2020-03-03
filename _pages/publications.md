@@ -19,6 +19,7 @@ header:
 ## Computer Vision - Super-resoluton
 
 > Super-resolution imaging (SR) is a class of techniques that enhance (increase) the resolution of an imaging system. In optical SR the diffraction limit of systems is transcended, while in geometrical SR the resolution of digital imaging sensors is enhanced.
+{: .small}
 
 [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision){: .btn .btn--primary .btn--primary}
 [Super-resoluton](https://en.wikipedia.org/wiki/Super-resolution_imaging){: .btn .btn--inverse .btn--primary}
