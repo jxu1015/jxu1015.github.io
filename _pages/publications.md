@@ -25,11 +25,9 @@ header:
 [Inverse Button](#){: .btn .btn--inverse}
 [Light Outline Button](#){: .btn .btn--light-outline}
 
-[Computer Vision](https://en.wikipedia.org/wiki/Computer_vision){: .btn .btn--danger .btn--primary}
-[Image Super-resoluton](https://en.wikipedia.org/wiki/Super-resolution_imaging){: .btn .btn--info .btn--primary}
+[Computer Vision](https://en.wikipedia.org/wiki/Computer_vision){: .btn .btn--light-outline .btn--primary}
+[Image Super-resoluton](https://en.wikipedia.org/wiki/Super-resolution_imaging){: .btn .btn--light-outline .btn--primary}
 
-[Default Button](#){: .btn .btn--primary }
-[Small Button](#){: .btn .btn--primary .btn--small}
 
 * Cheng Deng, [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Kaibing Zhang, Dacheng Tao, Xinbo Gao, Xuelong Li. Similarity Constraints Based Structured Output Regression Machine: An Approach to Image Super-Resolution. IEEE Transactions on Neural Networks and Learning Systems, 2016, 27(12): 2472-2485. (JCR-I区, IF = 6.108)
 * Xinxia Fan, Yanhua Yang, Cheng Deng, [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Xinbo Gao. Compressed Multi-scale Feature Fusion Network for Single Image Super-Resolution. Signal Processing, 2017.  (JCR-II区, IF = 3.110)
