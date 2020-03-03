@@ -10,7 +10,7 @@ toc: true
 
 ### Potential drug-drug interactions in older adults with dementia
 
-Bogetti-Salazar, Michele, et al. "Severe potential drug-drug interactions in older adults with dementia and associated factors." Clinics 71.1 (2016): 17-21. [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4763155/pdf/cln-71-01-017.pdf)]
+<font size=1>Bogetti-Salazar, Michele, et al. "Severe potential drug-drug interactions in older adults with dementia and associated factors." Clinics 71.1 (2016): 17-21. [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4763155/pdf/cln-71-01-017.pdf)]</font> 
 
 :   The main severe potential drug-drug interactions were caused by the combinations [citalopram](https://www.drugs.com/citalopram.html)/[antiplatelet](https://www.drugs.com/drug-class/antiplatelet-agents.html) (11.6%), clopidogrel/omeprazole (6.1%), and clopidogrel/ aspirin (5.5%). 
 
