@@ -25,7 +25,7 @@ header:
 [Inverse Button](#){: .btn .btn--inverse}
 [Light Outline Button](#){: .btn .btn--light-outline}
 
-[Computer Vision](https://en.wikipedia.org/wiki/Computer_vision){: .btn .btn--inverse .btn--primary}
+[Computer Vision](https://en.wikipedia.org/wiki/Computer_vision){: .btn .btn--primary .btn--primary}
 [Image Super-resoluton](https://en.wikipedia.org/wiki/Super-resolution_imaging){: .btn .btn--light-outline .btn--primary}
 [GPR](#){: .btn .btn--light-outline .btn--small}
 [SR](#){: .btn .btn--light-outline .btn--small}
