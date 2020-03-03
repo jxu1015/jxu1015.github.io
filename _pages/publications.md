@@ -20,4 +20,4 @@ header:
 * [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Cheng Deng, Xianglong Liu, Jie Li. Image Super-resolution Based on Sparse Representation With Joint Constraints. International Conference on Internet Multimedia Computing and Service (ICIMCS), 2014, 381-385, Xiamen, China, 2014.7.10-7.12. 
 * Songhang Ye, Cheng Deng, [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Xinbo Gao. Coupled Fisher Discrimination Dictionary Learn-ing for Single Image Super-resolution. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2015, 1196-1200, Queensland, Australia, 2015.4.19-2015.4.24.
 * Fang Xie, Cheng Deng, [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Jifei Yu, Jie Li. Image Super Resolution Using Gaussian Process Regression with Patch Clustering. International Conference on Internet Multimedia Computing and Service (ICIMCS), 2013, 109-112, Huang shan, China, 2013.8.17-8.18. 
-{: .medium}
+{: .small}
