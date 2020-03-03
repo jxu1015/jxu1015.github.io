@@ -25,8 +25,8 @@ header:
 [Inverse Button](#){: .btn .btn--inverse}
 [Light Outline Button](#){: .btn .btn--light-outline}
 
-[Computer Vision](#){: .btn .btn--primary .btn--x-large}
-[Image Super-resoluton](#){: .btn .btn--primary .btn--large}
+[Computer Vision](https://en.wikipedia.org/wiki/Computer_vision){: .btn .btn--inverse .btn--primary}
+[Image Super-resoluton](https://en.wikipedia.org/wiki/Super-resolution_imaging){: .btn .btn--light-outline .btn--primary}
 
 [Default Button](#){: .btn .btn--primary }
 [Small Button](#){: .btn .btn--primary .btn--small}
