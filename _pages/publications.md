@@ -6,6 +6,10 @@ header:
   image: "/images/fengshou.jpg"
 ---
 
+[Federated Learning](#link){: .btn .btn--light-outline}
+[Similarity Learning](#link){: .btn .btn--light-outline}
+[Super-resoluton](#link){: .btn .btn--light-outline}
+
 ## Machine Learning / Federated Learning
 
 > [Federated learning](https://en.wikipedia.org/wiki/Federated_learning) (aka collaborative learning) is a machine learning technique that trains an algorithm across multiple decentralized edge devices or servers holding local data samples, without exchanging their data samples.
