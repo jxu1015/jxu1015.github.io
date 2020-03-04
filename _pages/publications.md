@@ -5,10 +5,10 @@ permalink: /publications/
 header:
   image: "/images/fengshou.jpg"
 ---
-;[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning){: .btn .btn--inverse}
+; [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning){: .btn .btn--inverse}
 [Federated Learning](#fl){: .btn .btn--light-outline}
 [Similarity Learning](#sl){: .btn .btn--light-outline}
-;[Computer Vision](https://en.wikipedia.org/wiki/Computer_vision){: .btn .btn--inverse}
+;   [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision){: .btn .btn--inverse}
 [Super-resoluton Imaging](#sr){: .btn .btn--light-outline}
 
 <div id="fl"></div>
