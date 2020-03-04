@@ -37,7 +37,7 @@ header:
 {: .small}
 
 <div id="sr"></div>
-## Super-resoluton
+## Super-resoluton Imaging
 
 > [Super-resolution imaging (SR)](https://en.wikipedia.org/wiki/Super-resolution_imaging) is a class of techniques that enhance (increase) the resolution of an imaging system. In optical SR the diffraction limit of systems is transcended, while in geometrical SR the resolution of digital imaging sensors is enhanced. 
 {: .small}
