@@ -9,7 +9,7 @@ header:
 [Federated Learning](#link){: .btn .btn--light-outline}
 [Similarity Learning](#link){: .btn .btn--light-outline}
 [Computer Vision](#link){: .btn .btn--inverse}
-[Super-resoluton](#link){: .btn .btn--light-outline}
+[Super-resoluton Imaging](#link){: .btn .btn--light-outline}
 
 ## Federated Learning
 
