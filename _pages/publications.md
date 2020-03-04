@@ -19,7 +19,7 @@ header:
 ## Computer Vision / Super-resoluton
 
 > [Super-resolution imaging (SR)](https://en.wikipedia.org/wiki/Super-resolution_imaging) is a class of techniques that enhance (increase) the resolution of an imaging system. In optical SR the diffraction limit of systems is transcended, while in geometrical SR the resolution of digital imaging sensors is enhanced. 
-{: .notice--info}
+{: .notice--success}
 
 * Cheng Deng, [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Kaibing Zhang, Dacheng Tao, Xinbo Gao, Xuelong Li. Similarity Constraints Based Structured Output Regression Machine: An Approach to Image Super-Resolution. IEEE Transactions on Neural Networks and Learning Systems, 2016, 27(12): 2472-2485. (JCR-I, IF = 6.108)
 * Xinxia Fan, Yanhua Yang, Cheng Deng, [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Xinbo Gao. Compressed Multi-scale Feature Fusion Network for Single Image Super-Resolution. Signal Processing, 2017.  (JCR-II, IF = 3.110)
