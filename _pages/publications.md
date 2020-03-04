@@ -9,13 +9,16 @@ header:
 ## Machine Learning / Federated Learning
 
 > [Federated learning](https://en.wikipedia.org/wiki/Federated_learning) (aka collaborative learning) is a machine learning technique that trains an algorithm across multiple decentralized edge devices or servers holding local data samples, without exchanging their data samples.
+{: .small}
 
 * [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Zhenxing Xu, Peter Walke, Fei Wang. Federated Patient Hashing. The Thirty-Fourth AAAI Con-ference on Artificial Intelligence (AAAI-20), 2020.
 * [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Fei Wang. Federated Learning for Healthcare Informatics. arXiv preprint arXiv:1911.06270, 2019.
+{: .small}
 
 ## Machine Learning / Similarity Learning
 
 > [Similarity learning](https://en.wikipedia.org/wiki/Similarity_learning) is an area of supervised machine learning in artificial intelligence. It is closely related to regression and classification, but the goal is to learn from a similarity function that measures how similar or related two objects are. 
+{: .small}
 
 * Lei Luo, [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Cheng Deng, Heng Huang. Robust Metric Learning on Grassmann Manifolds with Generalization Guarantees. The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19), 2019.
 * Lei Luo, [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Cheng Deng, Heng Huang. Orthogonality-Promoting Dictionary Learning via Bayesian Inference. The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19), 2019.
