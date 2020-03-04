@@ -15,7 +15,7 @@ header:
 
 way1 #way1
 
-## Federated Learning
+## [Federated Learning](#way1)
 
 > [Federated learning](https://en.wikipedia.org/wiki/Federated_learning) (aka collaborative learning) is a machine learning technique that trains an algorithm across multiple decentralized edge devices or servers holding local data samples, without exchanging their data samples.
 {: .small}
