@@ -14,6 +14,7 @@ Why EHRs are essential for treating Alzheimer's patients?
 ## Background
 
 Alzheimer's disease is a serious problem in the U.S., affecting countless individuals and families across the nation. According to the Alzheimer's Association, 1 in 3 seniors dies with the disease or another form of dementia. It is the sixth leading cause of death in the U.S. 
+{: .small}
 
 ### Why EHRs are essential for treating Alzheimer's patients?
 
@@ -31,18 +32,18 @@ Moving forward, there is hope that the information provided by EHRs can help imp
 NorthShore's Center for Brain Health are using the system's EHR network to help identify patients that are at high risk of developing the disease. This is being done by building a risk prediction model based on data that is already in the healthcare organizations' Epic system. 
 
 "We are using the data routinely captured by Epic to determine someone's likelihood to be free of Alzheimer's or their hazard of developing Alzheimer's in the next five years," Dr. Demetrius Maraganore, chairman of NorthShore's Department of Neurology, told Healthcare Informatics. "And we can assign a risk score to that person and decide what risk score sets off bells and whistles so that we should inform this person and their doctor that this person is at increased risk."
+{: .small}
 
 ### Electronic Health Records Based Prediction of Future Incidence of Alzheimer’s Disease Using Machine Learning (Yonsei University, Korea & Columbia University, USA)
-
-
 
 ## Findings
 
 ### Paper 1: Predicting dementia from primary care records: A systematic review and meta-analysis
 Meta-analysis showed that neuropsychiatric symptoms including depression, anxiety, and seizures, cognitive symptoms, and history of stroke, were positively associated with dementia. Cardiovascular risk factors such as hypertension, heart disease, dyslipidaemia and diabetes were positively associated with vascular dementia and negatively with AD. Sensitivity analyses showed similar results.
-
+{: .small}
 
 
 ### References:
 [1] https://www.nuemd.com/news/2017/02/07/ehrs-essential-treating-alzheimers-patients  
 [2] https://www.nuemd.com/news/2015/08/21/ehr-data-used-study-risk-alzheimers-disease
+{: .small}
