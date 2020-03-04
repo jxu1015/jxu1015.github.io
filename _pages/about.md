@@ -12,9 +12,9 @@ Besides, I studied at [University of Texas at Arlington](https://www.uta.edu/) a
 
 ## Research Interests
 
-* Machine Learning: Metric Learning, Hashing, Federated Learning, Differential Privacy
-* Data Mining: EHR Data Mining, OMOP Common Data Model, Alzheimer's Disease
-* Computer Vision: Image Super-resolution, Pattern Recognition, Video Analysis
+* [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning): Metric Learning, Hashing, Federated Learning, Differential Privacy
+* [Data Mining](https://en.wikipedia.org/wiki/Data_mining): EHR Data Mining, OMOP Common Data Model, Alzheimer's Disease
+* [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision): Image Super-resolution, Pattern Recognition, Video Analysis
 {: .small}
 
 Currently, my primary research interest is data analytic, privacy preserving technology and their applications in health informatics. One key aspect I have been working on is evaluating the clinical similarity between pairwise patients according to their historical EHR in federated environment. Besides this, I also work on the privacy preserving technology like differential privacy in order to further protect patient's information. Another major research topic that I am working on is to identify the potential sub-phenotypes of Alzheimer's disease and use machine learning models to predict the future incidence of AD using administrative EHR in individuals.
