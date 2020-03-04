@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/xian.jpg"
+  image: "/images/xian_snow1.jpg"
 ---
 
 > I received the B.Sc. degree in biomedical engineering, the M.Sc. degree and the PhD degree in circuits and
