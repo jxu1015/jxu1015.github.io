@@ -18,3 +18,5 @@ Besides, I studied at University of Texas at Arlington and University of Pittsbu
 {: .medium}
 
 Currently, my primary research interest is data analytic, privacy preserving technology and their applications in health informatics. One key aspect I have been working on is evaluating the clinical similarity between pairwise patients according to their historical EHR in federated environment. Besides this, I also work on the privacy preserving technology like differential privacy in order to further protect patient's information. Another major research topic that I am working on is to identify the potential sub-phenotypes of Alzheimer's disease and use machine learning models to predict the future incidence of AD using administrative EHR in individuals.
+{: .small}
+
