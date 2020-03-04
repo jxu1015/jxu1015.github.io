@@ -3,7 +3,7 @@ title: "Publications"
 date: 2020-01-01
 permalink: /publications/
 header:
-  image: "/images/fengshou.jpg"
+  image: "/images/hello.jpg"
 ---
 [//]: <> ([Machine Learning](https://en.wikipedia.org/wiki/Machine_learning){: .btn .btn--inverse})
 [Federated Learning](#fl){: .btn .btn--light-outline}
