@@ -92,17 +92,17 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
-    anonymize_ip         : # true, false (default)
+    anonymize_ip         : true # true, false (default)
 
 
 # Site Author
 author:
-  name             : "[Jie Xu (许洁)](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en)"
+  name             : "Jie Xu (许洁)"
   avatar           : "/images/xu.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Department of Healthcare Policy and Research, [Weill Cornell Medicine College](https://weill.cornell.edu/), [Cornell University](https://www.cornell.edu/)"
+  bio              : "Department of Healthcare Policy and Research, Weill Cornell Medicine College, Cornell University"
   location         : "New York, NY"
   email            : "jix4002@med.cornell.edu"
   uri              :
@@ -117,7 +117,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "jxu1015"
+  instagram        : # "jxu1015"
   lastfm           :
   linkedin         : "jie-xu-a6aab512b"
   pinterest        :
@@ -125,7 +125,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "JieXu24783419"
+  twitter          : # "JieXu24783419"
   vine             :
   weibo            :
   xing             :
