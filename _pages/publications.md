@@ -6,16 +6,16 @@ header:
   image: "/images/fengshou.jpg"
 ---
 [Machine Learning](#link){: .btn .btn--inverse}
-[Federated Learning](#way1){: .btn .btn--light-outline}
-[Similarity Learning](#link){: .btn .btn--light-outline}
+[Federated Learning](#fl){: .btn .btn--light-outline}
+[Similarity Learning](#sl){: .btn .btn--light-outline}
 [Computer Vision](#link){: .btn .btn--inverse}
-[Super-resoluton Imaging](#link){: .btn .btn--light-outline}
+[Super-resoluton Imaging](#sr){: .btn .btn--light-outline}
 
 
 way1 #way1
 
 ## Federated Learning
-<div id="way1"></div>
+<div id="fl"></div>
 
 > [Federated learning](https://en.wikipedia.org/wiki/Federated_learning) (aka collaborative learning) is a machine learning technique that trains an algorithm across multiple decentralized edge devices or servers holding local data samples, without exchanging their data samples.
 {: .small}
@@ -25,6 +25,7 @@ way1 #way1
 {: .small}
 
 ## Similarity Learning
+<div id="sl"></div>
 
 > [Similarity learning](https://en.wikipedia.org/wiki/Similarity_learning) is an area of supervised machine learning in artificial intelligence. It is closely related to regression and classification, but the goal is to learn from a similarity function that measures how similar or related two objects are. 
 {: .small}
@@ -39,6 +40,7 @@ way1 #way1
 {: .small}
 
 ## Super-resoluton
+<div id="sr"></div>
 
 > [Super-resolution imaging (SR)](https://en.wikipedia.org/wiki/Super-resolution_imaging) is a class of techniques that enhance (increase) the resolution of an imaging system. In optical SR the diffraction limit of systems is transcended, while in geometrical SR the resolution of digital imaging sensors is enhanced. 
 {: .small}
