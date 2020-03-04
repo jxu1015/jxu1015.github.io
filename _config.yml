@@ -100,9 +100,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jie Xu (许洁)"
+  name             : "[Jie Xu (许洁)](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en)"
   avatar           : "/images/xu.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Department of Healthcare Policy and Research, Weil Cornell Medicine College, Cornell University"
+  bio              : "Department of Healthcare Policy and Research, [Weill Cornell Medicine College](https://weill.cornell.edu/), [Cornell University](https://www.cornell.edu/)"
   location         : "New York, NY"
   email            : "jix4002@med.cornell.edu"
   uri              :
@@ -111,21 +111,21 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : ""
   foursquare       :
   github           : "jxu1015"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "jxu1015"
   lastfm           :
-  linkedin         :  "jie-xu-a6aab512b"
+  linkedin         : "jie-xu-a6aab512b"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "JieXu24783419"
   vine             :
   weibo            :
   xing             :
