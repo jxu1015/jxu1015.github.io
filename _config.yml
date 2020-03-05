@@ -92,9 +92,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
+  provider               : "jekyll.environment == 'production'" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-159832554-1
+    tracking_id          : "UA-159832554-1"
     anonymize_ip         : true # true, false (default)
 
 
