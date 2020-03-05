@@ -4,6 +4,7 @@ categories:
   - Alzheimer's Disease
 tags:
   - dementia
+  - treatment pathways
   - drug-drug interactions
 toc: true
 ---
