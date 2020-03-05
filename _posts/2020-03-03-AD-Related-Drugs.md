@@ -12,6 +12,7 @@ toc: true
 
 ### Treatment Pathways
    — defined here as the ordered sequence of medications that a patient is prescribed.
+   {: .small}
 
 > <font color='red'>Paper:</font> Hripcsak, George, et al. "[Characterizing treatment pathways at scale using the OHDSI network](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4941483/pdf/pnas.201510502.pdf)." Proceedings of the National Academy of Sciences 113.27 (2016): 7329-7336.
 {: .small}
