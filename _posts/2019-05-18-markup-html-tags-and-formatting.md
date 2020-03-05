@@ -245,3 +245,9 @@ Still sticking with science and Albert Einstein's E = MC<sup>2</sup>, which shou
 ### Variable Tag
 
 This allows you to denote <var>variables</var>.
+
+### Task Lists
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
