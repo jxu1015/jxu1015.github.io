@@ -23,6 +23,10 @@ toc: true
 * Aside from factors such as sample size and underlying population (academic medical center versus general population), electronic health records data and administrative claims data revealed similar results. 
 {: .small}
 
+### Drug Repurposing for AD
+
+> <font color='red'>Paper:</font> Fang, Jiansong, et al. "[Network-based Translation of GWAS Findings to Pathobiology and Drug Repurposing for Alzheimer's Disease](https://www.medrxiv.org/content/10.1101/2020.01.15.20017160v1.full.pdf)." medRxiv (2020).
+
 ### Drug-drug Interactions
 
 > <font color='red'>Paper:</font> Bogetti-Salazar, Michele, et al. "[Severe potential drug-drug interactions in older adults with dementia and associated factors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4763155/pdf/cln-71-01-017.pdf)." Clinics 71.1 (2016): 17-21.
