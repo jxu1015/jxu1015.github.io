@@ -11,10 +11,11 @@ toc: true
 ## Paper Reading
 
 ### Treatment Pathways
+ — defined here as the ordered sequence of medications that a patient is prescribed.
+
 > <font color='red'>Paper:</font> Hripcsak, George, et al. "[Characterizing treatment pathways at scale using the OHDSI network](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4941483/pdf/pnas.201510502.pdf)." Proceedings of the National Academy of Sciences 113.27 (2016): 7329-7336.
 {: .small}
 
-* <font color='green'>Treatment pathways — defined here as the ordered sequence of medications that a patient is prescribed.</font>
 * Our aim was to reveal patterns and variation in treatment among data sources and diseases.
 * The pathways revealed that the world is moving toward more consistent therapy over time across diseases and across locations, but significant heterogeneity remains among sources, pointing to challenges in generalizing clinical trial results. Diabetes favored a single first-line medication, metformin, to a much greater extent than hypertension or depression. About 10% of diabetes and depression patients and almost 25% of hypertension patients followed a treatment pathway that was unique within the cohort.
 * Aside from factors such as sample size and underlying population (academic medical center versus general population), electronic health records data and administrative claims data revealed similar results. 
