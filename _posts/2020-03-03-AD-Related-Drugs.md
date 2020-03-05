@@ -7,8 +7,10 @@ tags:
   - drug-drug interactions
 toc: true
 ---
+ 
+## Paper Reading
 
-## Potential drug-drug interactions in older adults with dementia
+### Potential drug-drug interactions in older adults with dementia
 
 > <font color='red'>Paper:</font> Bogetti-Salazar, Michele, et al. "[Severe potential drug-drug interactions in older adults with dementia and associated factors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4763155/pdf/cln-71-01-017.pdf)." Clinics 71.1 (2016): 17-21.
 {: .small}
@@ -17,7 +19,7 @@ toc: true
 * Antidepressants, antiplatelets, anti-psychotics and omeprazole were the drugs most commonly involved in severe potential drug-drug interactions. 
 * Despite their frequent use, anti-dementia drugs were not involved in these interactions. 
 * The number and type of medications taken, dementia severity and depression in patients in addition to caregiver burden should be considered to avoid possible drug interactions in this population.
-* <font color='blue'>Top ten severe potential DDIs (severe and contraindicated).</font>
+* <font color='green'>Top ten severe potential DDIs (severe and contraindicated).</font>
 {: .small}
 
 
