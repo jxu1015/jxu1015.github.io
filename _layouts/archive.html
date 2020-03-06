@@ -16,11 +16,11 @@ layout: default
 
 <div id="main" role="main">
   {% include sidebar.html %}
-  <a href="https://clustrmaps.com/site/1b4v5"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=AIjdmzvjwNJVlvPnTq8qyuyPzeJr2UaO2d5Rnq_V0b0&cl=ffffff" /></a>
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 id="page-title" class="page__title">{{ page.title }}</h1>
     {% endunless %}
     {{ content }}
+    <a href="https://clustrmaps.com/site/1b4v5"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=AIjdmzvjwNJVlvPnTq8qyuyPzeJr2UaO2d5Rnq_V0b0&cl=ffffff" /></a>
   </div>
 </div>
