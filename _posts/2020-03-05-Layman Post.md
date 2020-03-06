@@ -19,4 +19,4 @@ The techniques of molecular biology, cell biology, and biochemistry are used to 
 
 * [Pharmacoepidemiology](https://en.wikipedia.org/wiki/Pharmacoepidemiology) is the study of the utilization and effects of drugs in large numbers of people; it provides an estimate of the probability of beneficial effects of a drug in a population and the probability of adverse effects. It can be called a bridge science spanning both clinical pharmacology and epidemiology.
 药物流行病学是研究药物在大量人群中的使用和作用的学科;它提供了一种药物在人群中产生有益影响的概率和产生不良影响的概率的估计。它可以被称为跨越临床药理学和流行病学的桥梁科学。
-{:. small}
+{: .small}
