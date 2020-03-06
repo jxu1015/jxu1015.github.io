@@ -17,4 +17,6 @@ The techniques of molecular biology, cell biology, and biochemistry are used to 
 * [Pharmacology](https://en.wikipedia.org/wiki/Pharmacology) is the study of the body's reaction to drugs.
 药理学是研究人体对药物的反应。
 
+* [Epidemiology](https://en.wikipedia.org/wiki/Epidemiology) is the study of the distribution and determinants of health-related states or events (including disease), and the application of this study to the control of diseases and other health problems.
+流行病学是研究与健康有关的状态或事件(包括疾病)的分布和决定因素，并将这项研究应用于疾病和其他健康问题的控制。
 {:. small}
