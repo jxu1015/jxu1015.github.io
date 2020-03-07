@@ -7,6 +7,15 @@ tags:
 toc: true
 ---
 
+## Abbreviation
+
+| Acronym          | Meaning                           |                     |
+| --------         | --------------------------------- | ------------------- |
+| GWAS             | Genome Wide Association Study     |  全基因组关联分析      |
+| SNPs             | Single Nucleotide Polymorphisms   |  单核苷酸多态位点      |
+
+
+
 ## What is Ology?
 
 * [Pathobiology](https://www.vet.upenn.edu/research/academic-departments/pathobiology) is an interdisciplinary field devoted to basic research into the mechanisms of disease. 
@@ -87,12 +96,5 @@ With the progress in all the different omics fields, it is being increasingly re
 Studying theese processes in their entirety is critical to find strategies to treat diseases. This is where the multiomics field is coming in. This field encompasses all the omics fields and trues to understand the native and altered state of an organism by the analysis of the data from different omics experiments.
 全面研究这些过程对于找到治疗疾病的策略至关重要。这就是多元经济学领域的用武之地。这个领域包含了所有的组学领域，通过分析来自不同组学实验的数据来理解生物体的自然状态和改变状态。
 {: .small}
-
-## Abbreviation
-
-| Acronym          | Meaning                           |                                   |
-| --------         | --------------------------------- | --------------------------------- |
-| GWAS             | Genome Wide Association Study     |  全基因组关联分析                    |
-| [Jane Doe](#)    | $100K                             | For all the blogging she does.    |
 
 
