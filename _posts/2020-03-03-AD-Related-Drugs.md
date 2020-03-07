@@ -30,11 +30,16 @@ toc: true
 
 *  In summary, they present an integrated, network-based methodology to rapidly translate GWAS findings and multi-omics data to genotype-informed therapeutic discovery in AD.
 * 现在假设，通过整合GWAS的发现和与人类相互作用网络模型相结合的多组学特征，系统地识别可能的致病基因，也将揭示AD中基于基因型的治疗发现的疾病特异性靶点。这种方法需要基因组、转录组、蛋白质组和人类蛋白质-蛋白质相互作用体的独特整合。specifically, they integrates GWAS findings, multi-omics data from brain samples of AD patients and preclinical AD models, drug-target networks, and the human protein-protein interactome, along with large-scale patient database validation and <cite>in vitro</cite> mechanistic observations in human microglia cells.  
-
-  * Data
-      * Collection of GWAS SNPs from large-scale studies
-          * Collect AD risk SNPs, which yielded 106 unique GWAS SNPs
-      * Construction of human protein-protein interactome
+* Data
+    * Collection of GWAS SNPs from large-scale studies
+    * Construction of human protein-protein interactome
+    * Collection of functional genomics data
+    * Collection of biological and functional data
+        * Disease-associated genes from Open targets
+        * Experimentally validated genes for Alzheimer’s disease
+        * Brain specific expression
+        * Gene Expression
+        
 
 
 * Through this approach, we identified 103 AD risk genes (ARGs) validated by various levels of pathobiological evidence in AD.
