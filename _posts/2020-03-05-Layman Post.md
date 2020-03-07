@@ -11,9 +11,9 @@ toc: true
 
 | Acronym          | Meaning                           |                     |
 | --------         | --------------------------------- | ------------------- |
-| GWAS             | Genome Wide Association Study     |  全基因组关联分析      |
-| SNP              | Single Nucleotide Polymorphism    |  单核苷酸多态性        |
-| [PPI](https://en.wikipedia.org/wiki/Protein%E2%80%93protein_interaction)              | Protein–protein interaction       |  单核苷酸多态性        |
+| [GWAS](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%85%B3%E8%81%94%E5%88%86%E6%9E%90)             | Genome Wide Association Study     |  全基因组关联分析      |
+| [SNP](https://zh.wikipedia.org/wiki/%E5%96%AE%E6%A0%B8%E8%8B%B7%E9%85%B8%E5%A4%9A%E6%85%8B%E6%80%A7)              | Single Nucleotide Polymorphism    |  单核苷酸多态性        |
+| [PPI](https://zh.wikipedia.org/wiki/%E8%9B%8B%E7%99%BD%E8%B3%AA%E4%BA%A4%E4%BA%92%E4%BD%9C%E7%94%A8)              | Protein–protein interaction       |  蛋白质交互作用        |
 
 
 ## What is Ology?
