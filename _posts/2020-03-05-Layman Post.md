@@ -79,7 +79,6 @@ Metabolome comprises all the metabolites present in a cell, tissue, or organism,
 {: .small}
 
 * Multiomics strategy
-{: .small}
 
 With the progress in all the different omics fields, it is being increasingly recognized that the answer to a research question cannot be answered by one form of omics. The microbiome influences the gene and protein expression which in turn influence the metabolome, and all these processes crosstalk and regulate each other.
 随着所有不同的组学领域的进步，越来越多的人认识到，一个研究问题的答案不能用一种组学来回答。微生物组影响基因和蛋白质的表达，而基因和蛋白质的表达反过来又影响代谢组，所有这些过程相互干扰和调节。
