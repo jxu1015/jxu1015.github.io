@@ -65,11 +65,10 @@ These modifications are involved in maintaining cellular structure and function.
 这些改变涉及到维持细胞结构和功能。基于质谱的技术被用来分析全球蛋白质组的变化和量化翻译后的修饰。
 {: .small
 
-* Metabolomics (代谢组学)
+* [Metabolomics](#) (代谢组学)
 Metabolome comprises all the metabolites present in a cell, tissue, or organism, including small molecules, carbohydrates, peptides, lipids, nucleosides, and catabolic products. It represents the final product of gene transcription, and consists of both signaling and structural molecules. The size of metabolome is much smaller than the size of proteome, and thus it is easier to investigate.
 代谢组包括细胞、组织或有机体中存在的所有代谢物，包括小分子、碳水化合物、多肽、脂类、核苷和分解代谢产物。它是基因转录的最终产物，由信号分子和结构分子组成。代谢组的大小远小于蛋白质组的大小，因此更易于研究。
 {: .small}
-
 
 * [Microbiomics](#) consists of all the microorganisms of a community. Microbes have been found in human skin, mucosal surfaces, and gut.  The microbiome present in humans is very complex, where the gut consists of 100 trillion bacteria.
 微生物学由一个群落的所有微生物组成。微生物已经在人类皮肤、粘膜表面和肠道中被发现。人体的微生物群落非常复杂，肠道由100万亿个细菌组成。
@@ -78,7 +77,6 @@ Metabolome comprises all the metabolites present in a cell, tissue, or organism,
 * Microbiota has been found to be involved in diabetes, obesity, cancer, colitis, heart disease, and autism. Thus, characterization of the microbiome or an organism has gained a lot of attention. The microbiome is analyzed by sequencing the 16S rRNA genes or metagenomics quantification.
 微生物群已被发现与糖尿病、肥胖、癌症、结肠炎、心脏病和自闭症有关。因此，微生物或有机体的特性得到了广泛的关注。通过测序16S rRNA基因或宏基因组定量分析微生物组。
 {: .small}
-
 
 * Multiomics strategy
 {: .small}
