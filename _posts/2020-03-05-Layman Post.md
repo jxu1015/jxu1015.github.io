@@ -116,11 +116,9 @@ The techniques of molecular biology, cell biology, and biochemistry are used to 
 
 ## Abbreviation
 
-| Acronym         | Meaning |                                                              |
-| --------        | ------ | ------------------------------------------------------------ |
-| GWAS            | Genome Wide Association Study     |  全基因组关联分析           |
-| [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
-| [Fred Bloggs](#) | $100M  | Pictures are worth a thousand words, right? So Jane × 1,000. |
-| [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |
+| Acronym          | Meaning                           |                                   |
+| --------         | --------------------------------- | --------------------------------- |
+| GWAS             | Genome Wide Association Study     |  全基因组关联分析                    |
+| [Jane Doe](#)    | $100K                             | For all the blogging she does.    |
 
 
