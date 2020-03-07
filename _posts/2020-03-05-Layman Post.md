@@ -29,10 +29,7 @@ The techniques of molecular biology, cell biology, and biochemistry are used to 
 多组学是一种将不同组群的数据集在分析过程中进行组合的新方法。在多组学中采用的不同的基因组策略包括基因组、蛋白质组、转录组、表观基因组和微生物组。
 {: .small}
 
-* Genomics (基因组学)
-{: .small}
-
-:   Genomics is a field which involves identification of genes and genetic variants associated with a disease or in response to certain drugs and medication. In this approach, GWAS or Genome Wide Association Studies are used to identify genetic variants in an entire genome which are associated with a disease.
+* [Genomics](#) is a field which involves identification of genes and genetic variants associated with a disease or in response to certain drugs and medication. In this approach, GWAS or Genome Wide Association Studies are used to identify genetic variants in an entire genome which are associated with a disease.
 基因组学是一个涉及到识别与疾病相关的基因和遗传变异或对某些药物的反应的领域。在这种方法中，GWAS或全基因组关联研究被用来识别整个基因组中与疾病相关的遗传变异。
 {: .small}
 
@@ -40,10 +37,7 @@ The techniques of molecular biology, cell biology, and biochemistry are used to 
 对成千上万人进行了基因分型，使用了近100万个标记，以确定健康和患病个体之间的遗传标记的显著差异。除了GWAS外，该方法还应用了基因型阵列、下一代测序和外显子组测序。
 {: .small}
 
-* Epigenomics (表观基因组学)
-{: .small}
-
-:     Epigenomics refers to identifying modifications of DNA or DNA-associated proteins. These include DNA acetylation/deacetylation and methylation. Cell fate and functions can be modified by modifications in DNA and histones, apart from genetic changes. These changes can be based on the environment and are passed onto progeny. 
+* [Epigenomics](#) refers to identifying modifications of DNA or DNA-associated proteins. These include DNA acetylation/deacetylation and methylation. Cell fate and functions can be modified by modifications in DNA and histones, apart from genetic changes. These changes can be based on the environment and are passed onto progeny. 
 表观基因组学指的是识别DNA或DNA相关蛋白的修饰。这些包括DNA乙酰化/去乙酰化和甲基化。除了基因改变外，细胞的命运和功能也可以通过DNA和组蛋白的改变来改变。这些变化可以基于环境，并传递给后代。
 {: .small}
 
