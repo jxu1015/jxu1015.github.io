@@ -7,6 +7,8 @@ tags:
 toc: true
 ---
 
+## What is Ology (学问)?
+
 * [Pathobiology](https://www.vet.upenn.edu/research/academic-departments/pathobiology) is an interdisciplinary field devoted to basic research into the mechanisms of disease. 
 The techniques of molecular biology, cell biology, and biochemistry are used to characterize structural, functional, and chemical abnormalities occurring at the intercelluar and subcellular levels.
 病理生物学是一个跨学科领域，致力于疾病机制的基础研究。分子生物学、细胞生物学和生物化学技术用于描述发生在细胞间和亚细胞水平的结构、功能和化学异常。
@@ -21,7 +23,7 @@ The techniques of molecular biology, cell biology, and biochemistry are used to 
 药物流行病学是研究药物在大量人群中的使用和作用的学科;它提供了一种药物在人群中产生有益影响的概率和产生不良影响的概率的估计。它可以被称为跨越临床药理学和流行病学的桥梁科学。
 {: .small}
 
-## What is Multiomics?
+## What is Omics (组学)?
 
 * [Multiomics](https://www.news-medical.net/life-sciences/What-is-Multiomics.aspx)(多组学) is a new approach where the data sets of different omic groups are combined during analysis. The different omic strategies employed during multiomics are genome, proteome, transcriptome, epigenome, and microbiome. 
 多组学是一种将不同组群的数据集在分析过程中进行组合的新方法。在多组学中采用的不同的基因组策略包括基因组、蛋白质组、转录组、表观基因组和微生物组。
