@@ -30,8 +30,8 @@ toc: true
 diabetes mellitus in patients with cancer.
 * We identified wide variations in the treatment of common comorbidities in patients with cancer.
 * Implementation details
-    * Study Population: For each of chronic condition, entry into the subcohort was determined by the date of first treatment (as defined below) for the chronic disease, with at least 365 days of prior observation before first treatment and at least 365 days of follow-up time post-treatment. We required a diagnosis of cancer and of the chronic disease on or before the first treatment, as well as persistent treatment after initiation of the first treatment, defined as at least one exposure to treatment of the chronic disease during the 121-day to 240-day and the 241-day to 365-day periods postindex.
-    * Treatment Pattern Analysis
+* Study Population: For each of chronic condition, entry into the subcohort was determined by the date of first treatment (as defined below) for the chronic disease, with at least 365 days of prior observation before first treatment and at least 365 days of follow-up time post-treatment. We required a diagnosis of cancer and of the chronic disease on or before the first treatment, as well as persistent treatment after initiation of the first treatment, defined as at least one exposure to treatment of the chronic disease during the 121-day to 240-day and the 241-day to 365-day periods postindex.
+* Treatment Pattern Analysis
 {: .small}
 
 
@@ -41,7 +41,7 @@ diabetes mellitus in patients with cancer.
 > <font color='red'>Paper:</font> Fang, Jiansong, et al. "[Network-based Translation of GWAS Findings to Pathobiology and Drug Repurposing for Alzheimer's Disease](https://www.medrxiv.org/content/10.1101/2020.01.15.20017160v1.full.pdf)." medRxiv (2020).
 {: .small}
 
-*  In summary, they present an integrated, network-based methodology to rapidly translate GWAS findings and multi-omics data to genotype-informed therapeutic discovery in AD.
+* In summary, they present an integrated, network-based methodology to rapidly translate GWAS findings and multi-omics data to genotype-informed therapeutic discovery in AD.
 * 现在假设，通过整合GWAS的发现和与人类相互作用网络模型相结合的多组学特征，系统地识别可能的致病基因，也将揭示AD中基于基因型的治疗发现的疾病特异性靶点。这种方法需要基因组、转录组、蛋白质组和人类蛋白质-蛋白质相互作用体的独特整合。specifically, they integrates GWAS findings, multi-omics data from brain samples of AD patients and preclinical AD models, drug-target networks, and the human protein-protein interactome, along with large-scale patient database validation and <cite>in vitro</cite> mechanistic observations in human microglia cells.  
 * Data
     * Collection of GWAS SNPs from large-scale studies
