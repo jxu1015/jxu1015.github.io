@@ -53,14 +53,10 @@ qualifying ingredient for the disease.
         * Experimentally validated genes for Alzheimer’s disease
         * Brain specific expression
         * Gene Expression
-        
-
-
 * Through this approach, we identified 103 AD risk genes (ARGs) validated by various levels of pathobiological evidence in AD.
 * Via network-based prediction and population-based validation, we then showed that pioglitazone (吡格列酮) usage is significantly associated with decreased risk of AD in a retrospective case-control validation.
 吡格列酮是一种用于治疗2型糖尿病的过氧化物酶体增殖激活受体激动剂，而倾向评分匹配队列研究证实，与也用于治疗2型糖尿病的胰岛素促分泌药glipizide(格列吡嗪)相比，吡格列酮可降低AD风险。
 {: .small}
-
 
 ### Drug-drug Interactions
 
