@@ -23,6 +23,13 @@ toc: true
 * Aside from factors such as sample size and underlying population (academic medical center versus general population), electronic health records data and administrative claims data revealed similar results. 
 {: .small}
 
+> <font color='red'>Paper:</font> Chen, Ruijun, et al. "[Treatment Patterns for Chronic Comorbid Conditions in Patients With Cancer Using a Large-Scale Observational Data Network](https://ascopubs.org/doi/pdf/10.1200/CCI.19.00107)." JCO Clinical Cancer Informatics (2020).
+{: .small}
+
+
+
+
+
 ### Drug Repurposing for AD
 
 > <font color='red'>Paper:</font> Fang, Jiansong, et al. "[Network-based Translation of GWAS Findings to Pathobiology and Drug Repurposing for Alzheimer's Disease](https://www.medrxiv.org/content/10.1101/2020.01.15.20017160v1.full.pdf)." medRxiv (2020).
