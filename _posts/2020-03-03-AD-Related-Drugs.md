@@ -30,11 +30,11 @@ toc: true
 diabetes mellitus in patients with cancer.
 * We identified wide variations in the treatment of common comorbidities in patients with cancer.
 * Implementation details
-* Study Population: For each of chronic condition, entry into the subcohort was determined by the date of first treatment (as defined below) for the chronic disease, with at least 365 days of prior observation before first treatment and at least 365 days of follow-up time post-treatment. We required a diagnosis of cancer and of the chronic disease on or before the first treatment, as well as persistent treatment after initiation of the first treatment, defined as at least one exposure to treatment of the chronic disease during the 121-day to 240-day and the 241-day to 365-day periods postindex.
+* Study Population -- For each of chronic condition, entry into the subcohort was determined by the date of first treatment (as defined below) for the chronic disease, with at least 365 days of prior observation before first treatment and at least 365 days of follow-up time post-treatment. We required a diagnosis of cancer and of the chronic disease on or before the first treatment, as well as persistent treatment after initiation of the first treatment, defined as at least one exposure to treatment of the chronic disease during the 121-day to 240-day and the 241-day to 365-day periods postindex.
 * For each patient in the qualifying subcohorts, we identified the sequence of treatments to which they were exposed during the 12 months after first exposure. 
 * Treatments were analyzed at the RxNorm—the standard vocabulary for medications—ingredient level, which represents the primary active ingredient in the drug. The sequence was determined by ordering the dates of first exposure to each
 qualifying ingredient for the disease.
-* Treatment Pattern Analysis: Please refer to the paper.
+* Treatment Pattern Analysis -- Please refer to the paper.
 {: .small}
 
 ### Drug Repurposing for AD
