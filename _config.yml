@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jie (Elleen) Xu 许洁"
+  name             : "Jie (Elleen) Xu"
   avatar           : "/images/WechatIMG34.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Department of Population Health Sciences, Weill Cornell Medicine College, Cornell University"
   location         : "New York, NY"
