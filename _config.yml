@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jie Xu (许洁)"
+title                    : "Jie (Elleen) Xu (许洁)"
 title_separator          : "-"
-name                     : "Jie Xu"
+name                     : "Jie (Elleen) Xu"
 description              : "Homepage"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
