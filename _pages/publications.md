@@ -11,13 +11,16 @@ header:
 [Super-resoluton Imaging](#sr){: .btn .btn--light-outline}
 
 <div id="fl"></div>
-## Federated Learning
+## Federated Learning & Healthcare
 
 > [Federated learning](https://en.wikipedia.org/wiki/Federated_learning) (aka collaborative learning) is a machine learning technique that trains an algorithm across multiple decentralized edge devices or servers holding local data samples, without exchanging their data samples.
 {: .small}
 
 * [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Zhenxing Xu, Peter Walke, Fei Wang. Federated Patient Hashing. The Thirty-Fourth AAAI Con-ference on Artificial Intelligence (AAAI-20), 2020.
-* [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Fei Wang. Federated Learning for Healthcare Informatics. arXiv preprint arXiv:1911.06270, 2019.
+* [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Benjamin S Glicksberg, Chang Su, Peter Walker, Jiang Bian, Fei Wang. Federated Learning for Healthcare Informatics. Journal of Healthcare Informatics Research (JHIR), 2020.
+* Vaid, Akhil, Suraj K. Jaladanki, [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Shelly Teng, Arvind Kumar, Samuel Lee, Sulaiman Somani et al. Federated Learning of Electronic Health Records to Improve Mortality Prediction in Hospitalized Patients With COVID-19: Machine Learning Approach. JMIR medical informatics, 2021.
+* [**Jie Xu**](https://scholar.google.com/citations?user=kFSu-dgAAAAJ&hl=en), Wei Zhang, and Fei Wang. A (DP) $^ 2$ SGD: Asynchronous Decentralized Parallel Stochastic Gradient Descent with Differential Privacy. arXiv preprint arXiv:2008.09246, 2020.
+
 {: .small}
 
 <div id="sl"></div>
