@@ -11,13 +11,15 @@ Besides, I studied at [University of Texas at Arlington](https://www.uta.edu/) a
 {: .small}
 
 ## Research Interests
-
+  * List item one 
+      * List item one 
+          * List item one
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning): Metric Learning, Hashing, Federated Learning, Differential Privacy
-* [Health Informatics]: 
-** Feature engineering for better analytics with big medical data (EHR, claims...)
-** Predictive modeling ** Disease progression modeling ** Disease subtyping
-** Drug repurposing ** Mitigating algorithmic bias in healthcare
-** Broadening eligibility criteria of clinical trial
+* [Health Informatics](https://en.wikipedia.org/wiki/Health_informatics): 
+    * Feature engineering for better analytics with big medical data (EHR, claims...)
+    * Predictive modeling * Disease progression modeling * Disease subtyping
+    * Drug repurposing * Mitigating algorithmic bias in healthcare
+    * Broadening eligibility criteria of clinical trial
 * [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision): Image Super-resolution, Pattern Recognition, Video Analysis
 {: .small}
 
