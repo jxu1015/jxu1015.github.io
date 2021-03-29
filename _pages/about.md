@@ -7,7 +7,7 @@ header:
 
 > I received the B.Sc. degree in biomedical engineering, the M.Sc. degree and the PhD degree in circuits and
 systems from [Xidian University](https://en.xidian.edu.cn/), Xi’an, China, in 2012, 2015 and 2018, respectively. 
-Besides, I studied at [University of Texas at Arlington](https://www.uta.edu/) and [University of Pittsburgh](https://www.pitt.edu/) as a joint doctoral student from 2016 to 2018. Now, I am doing my research as a postdoctor in [Weill Cornell Medicine College](https://weill.cornell.edu/), [Cornell University](https://www.cornell.edu/).
+Besides, I studied at [University of Texas at Arlington](https://www.uta.edu/) and [University of Pittsburgh](https://www.pitt.edu/) as a joint doctoral student in computer science department from 2016 to 2018. Now, I am doing my research as a postdoctor in [Weill Cornell Medicine College](https://weill.cornell.edu/), [Cornell University](https://www.cornell.edu/).
 {: .small}
 
 ## Research Interests
