@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jie (Elleen) Xu 许洁"
+title                    : "Jie Xu 许洁"
 title_separator          : "-"
-name                     : "Jie (Elleen) Xu"
+name                     : "Jie Xu"
 description              : "Homepage"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jie (Elleen) Xu"
+  name             : "Jie Xu"
   avatar           : "/images/WechatIMG34.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Department of Population Health Sciences, Weill Cornell Medicine College, Cornell University"
   location         : "New York, NY"
