@@ -102,9 +102,9 @@ analytics:
 author:
   name             : "Jie Xu"
   avatar           : "/images/WechatIMG34.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Department of Population Health Sciences, Weill Cornell Medicine College, Cornell University"
-  location         : "New York, NY"
-  email            : "jix4002@med.cornell.edu"
+  bio              : "Ph.D, Assistant Professor, Department of Health Outcomes and Biomedical Informatics, University of Florida"
+  location         : "Gainesville, Florida"
+  email            : "xujie@ufl.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
